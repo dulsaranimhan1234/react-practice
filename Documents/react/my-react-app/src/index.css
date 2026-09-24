@@ -49,3 +49,21 @@
   margin: 0;
   
 }
+.welcome-msg {
+  font-family: Arial, sans-serif;
+  font-size: 24px;
+  color: rgb(248, 252, 248);
+  padding: 10px;
+  text-align: center;
+  border-radius: 5px;
+  background-color: #8865da;
+}
+.sign-up-msg {
+  font-family: Arial, sans-serif;
+  font-size: 24px;
+  color: rgb(248, 252, 248);
+  padding: 10px;
+  text-align: center;
+  border-radius: 5px;
+  background-color: #8865da;
+}

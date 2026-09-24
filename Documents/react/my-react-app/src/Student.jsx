@@ -23,4 +23,5 @@ Student.defaultProps = {
   isStudent: false,
 };
 
+
 export default Student;
